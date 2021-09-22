@@ -28,6 +28,8 @@ https://www.spigotmc.org/resources/largeraids-1-14-x-1-17-x.95422/
 RPG Crafter
 https://www.spigotmc.org/resources/%E2%9A%92%EF%B8%8Frpgcrafter%E2%9A%92%EF%B8%8F.95117/
 
+Fast leaf decay
+https://dev.bukkit.org/projects/fastleafdecay
 
 An idea for later down the track...
 https://www.spigotmc.org/resources/medieval-factions.79941/
