@@ -42,3 +42,7 @@ https://www.spigotmc.org/resources/bluemap.83557/
 
 For fun...
 https://www.spigotmc.org/resources/shaped-portals.95595/
+https://www.spigotmc.org/resources/fly-not-glide.95055/
+
+Craftable Bundles Data Pack
+https://www.spigotmc.org/resources/craftable-bundles.95459/
